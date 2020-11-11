@@ -1,0 +1,4 @@
+java -jar spring-boot-microservices.jar eureka
+java -jar spring-boot-microservices.jar addition
+java -jar spring-boot-microservices.jar subtraction
+java -jar spring-boot-microservices.jar web
